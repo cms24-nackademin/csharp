@@ -1,0 +1,15 @@
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Projects\CMS24\csharp\Lektion-6\OOP\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

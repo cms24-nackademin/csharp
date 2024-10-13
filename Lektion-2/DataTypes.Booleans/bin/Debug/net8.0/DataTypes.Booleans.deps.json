@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataTypes.Booleans/1.0.0": {
+        "runtime": {
+          "DataTypes.Booleans.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataTypes.Booleans/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

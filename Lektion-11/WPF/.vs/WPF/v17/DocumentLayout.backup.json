@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CMS24\\csharp\\Lektion-11\\WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FCB064-8063-4C6A-92C3-311EA30BD91B}|TodoApp_Advanced\\TodoApp_Advanced.csproj|c:\\projects\\cms24\\csharp\\lektion-11\\wpf\\todoapp_advanced\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4FCB064-8063-4C6A-92C3-311EA30BD91B}|TodoApp_Advanced\\TodoApp_Advanced.csproj|solutionrelative:todoapp_advanced\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FCB064-8063-4C6A-92C3-311EA30BD91B}|TodoApp_Advanced\\TodoApp_Advanced.csproj|c:\\projects\\cms24\\csharp\\lektion-11\\wpf\\todoapp_advanced\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F4FCB064-8063-4C6A-92C3-311EA30BD91B}|TodoApp_Advanced\\TodoApp_Advanced.csproj|solutionrelative:todoapp_advanced\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-11\\WPF\\TodoApp_Advanced\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TodoApp_Advanced\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-11\\WPF\\TodoApp_Advanced\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "TodoApp_Advanced\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:32:30.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-11\\WPF\\TodoApp_Advanced\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TodoApp_Advanced\\MainWindow.xaml",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-11\\WPF\\TodoApp_Advanced\\MainWindow.xaml",
+              "RelativeToolTip": "TodoApp_Advanced\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-01T11:32:27.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

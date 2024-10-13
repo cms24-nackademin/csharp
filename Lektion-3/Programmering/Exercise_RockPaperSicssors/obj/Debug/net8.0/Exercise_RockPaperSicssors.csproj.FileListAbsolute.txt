@@ -1,0 +1,14 @@
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\bin\Debug\net8.0\Exercise_RockPaperSicssors.exe
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\bin\Debug\net8.0\Exercise_RockPaperSicssors.deps.json
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\bin\Debug\net8.0\Exercise_RockPaperSicssors.runtimeconfig.json
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\bin\Debug\net8.0\Exercise_RockPaperSicssors.dll
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\bin\Debug\net8.0\Exercise_RockPaperSicssors.pdb
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\Exercise_RockPaperSicssors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\Exercise_RockPaperSicssors.AssemblyInfoInputs.cache
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\Exercise_RockPaperSicssors.AssemblyInfo.cs
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\Exercise_RockPaperSicssors.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\Exercise_RockPaperSicssors.dll
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\refint\Exercise_RockPaperSicssors.dll
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\Exercise_RockPaperSicssors.pdb
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\Exercise_RockPaperSicssors.genruntimeconfig.cache
+C:\Projects\CMS24\Programmering\Lektion-3\Programmering\Exercise_RockPaperSicssors\obj\Debug\net8.0\ref\Exercise_RockPaperSicssors.dll

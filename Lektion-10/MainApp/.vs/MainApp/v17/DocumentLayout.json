@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1E6AE9B-DE0C-4298-8BE4-02B026CECF40}|MainApp\\MainApp.csproj|c:\\projects\\cms24\\csharp\\lektion-10\\mainapp\\mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1E6AE9B-DE0C-4298-8BE4-02B026CECF40}|MainApp\\MainApp.csproj|solutionrelative:mainapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA91A59-43CF-4464-809D-3A5A50403CDD}|MainApp.Resources\\MainApp.Resources.csproj|c:\\projects\\cms24\\csharp\\lektion-10\\mainapp\\mainapp.resources\\services\\adminusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA91A59-43CF-4464-809D-3A5A50403CDD}|MainApp.Resources\\MainApp.Resources.csproj|solutionrelative:mainapp.resources\\services\\adminusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA91A59-43CF-4464-809D-3A5A50403CDD}|MainApp.Resources\\MainApp.Resources.csproj|c:\\projects\\cms24\\csharp\\lektion-10\\mainapp\\mainapp.resources\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA91A59-43CF-4464-809D-3A5A50403CDD}|MainApp.Resources\\MainApp.Resources.csproj|solutionrelative:mainapp.resources\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BA91A59-43CF-4464-809D-3A5A50403CDD}|MainApp.Resources\\MainApp.Resources.csproj|c:\\projects\\cms24\\csharp\\lektion-10\\mainapp\\mainapp.resources\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BA91A59-43CF-4464-809D-3A5A50403CDD}|MainApp.Resources\\MainApp.Resources.csproj|solutionrelative:mainapp.resources\\interfaces\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp.Resources\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "MainApp.Resources\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp.Resources\\Services\\BaseService.cs",
+              "RelativeToolTip": "MainApp.Resources\\Services\\BaseService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T12:09:59.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminUserManager.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp.Resources\\Services\\AdminUserManager.cs",
+              "RelativeDocumentMoniker": "MainApp.Resources\\Services\\AdminUserManager.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp.Resources\\Services\\AdminUserManager.cs",
+              "RelativeToolTip": "MainApp.Resources\\Services\\AdminUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T11:54:36.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp.Resources\\Interfaces\\IUserManager.cs",
+              "RelativeDocumentMoniker": "MainApp.Resources\\Interfaces\\IUserManager.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp.Resources\\Interfaces\\IUserManager.cs",
+              "RelativeToolTip": "MainApp.Resources\\Interfaces\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:36:29.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp\\Program.cs",
+              "RelativeDocumentMoniker": "MainApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-10\\MainApp\\MainApp\\Program.cs",
+              "RelativeToolTip": "MainApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T10:20:20.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

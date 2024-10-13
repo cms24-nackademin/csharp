@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:viewmodels="clr-namespace:MainApp_Advanced.ViewModels"
+                    xmlns:views="clr-namespace:MainApp_Advanced.Views"
+                    >
+
+    <DataTemplate DataType="{x:Type viewmodels:HomeViewModel}">
+        <views:HomeView />
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type viewmodels:SettingsViewModel}">
+        <views:SettingsView />
+    </DataTemplate>
+
+</ResourceDictionary>

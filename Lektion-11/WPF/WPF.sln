@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp_Advanced", "TodoApp_Advanced\TodoApp_Advanced.csproj", "{F4FCB064-8063-4C6A-92C3-311EA30BD91B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoApp_Advanced.Shared", "TodoApp_Advanced.Shared\TodoApp_Advanced.Shared.csproj", "{44B59274-5181-4A27-802E-6F8B058A0387}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4FCB064-8063-4C6A-92C3-311EA30BD91B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4FCB064-8063-4C6A-92C3-311EA30BD91B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4FCB064-8063-4C6A-92C3-311EA30BD91B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4FCB064-8063-4C6A-92C3-311EA30BD91B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44B59274-5181-4A27-802E-6F8B058A0387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B59274-5181-4A27-802E-6F8B058A0387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B59274-5181-4A27-802E-6F8B058A0387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B59274-5181-4A27-802E-6F8B058A0387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20933D99-3934-4AD9-842C-EDFDD041403E}
+	EndGlobalSection
+EndGlobal

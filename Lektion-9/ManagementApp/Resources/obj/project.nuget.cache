@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Nc1uo/9KYE=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CMS24\\csharp\\Lektion-9\\ManagementApp\\Resources\\Resources.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

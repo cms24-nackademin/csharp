@@ -1,0 +1,14 @@
+C:\Projects\CMS24\Programmering\Conditions.Loops\bin\Debug\net8.0\Conditions.Loops.exe
+C:\Projects\CMS24\Programmering\Conditions.Loops\bin\Debug\net8.0\Conditions.Loops.deps.json
+C:\Projects\CMS24\Programmering\Conditions.Loops\bin\Debug\net8.0\Conditions.Loops.runtimeconfig.json
+C:\Projects\CMS24\Programmering\Conditions.Loops\bin\Debug\net8.0\Conditions.Loops.dll
+C:\Projects\CMS24\Programmering\Conditions.Loops\bin\Debug\net8.0\Conditions.Loops.pdb
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\Conditions.Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\Conditions.Loops.AssemblyInfoInputs.cache
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\Conditions.Loops.AssemblyInfo.cs
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\Conditions.Loops.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\Conditions.Loops.dll
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\refint\Conditions.Loops.dll
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\Conditions.Loops.pdb
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\Conditions.Loops.genruntimeconfig.cache
+C:\Projects\CMS24\Programmering\Conditions.Loops\obj\Debug\net8.0\ref\Conditions.Loops.dll

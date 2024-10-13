@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MainApp.MainPage">
+
+    <ScrollView>
+        <Grid RowDefinitions="auto,*" Margin="15">
+
+            <VerticalStackLayout Grid.Row="0" Margin="0,0,0,20">
+                <Label Text="Activity" FontFamily="poppins-regular" FontSize="11" Margin="0,0,0,5" />
+                <Entry x:Name="InputActivity" Margin="0,0,0,15" />
+                <Button x:Name="BtnSave" Text="SAVE" Clicked="BtnSave_Clicked" />
+            </VerticalStackLayout>
+
+            <ListView Grid.Row="1" x:Name="CvActivities">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid ColumnDefinitions="*, auto">
+                                <Label Grid.Column="0" Text="{Binding Activity}" />
+                                <Button Grid.Column="1" FontFamily="fa-regular" Text="&#xf1f8;" x:Name="BtnDelete" Clicked="BtnDelete_Clicked" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+        </Grid>
+    </ScrollView>
+
+</ContentPage>

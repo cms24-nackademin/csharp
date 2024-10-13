@@ -1,0 +1,14 @@
+C:\Projects\CMS24\Programmering\DataTypes.Guids\bin\Debug\net8.0\DataTypes.Guids.exe
+C:\Projects\CMS24\Programmering\DataTypes.Guids\bin\Debug\net8.0\DataTypes.Guids.deps.json
+C:\Projects\CMS24\Programmering\DataTypes.Guids\bin\Debug\net8.0\DataTypes.Guids.runtimeconfig.json
+C:\Projects\CMS24\Programmering\DataTypes.Guids\bin\Debug\net8.0\DataTypes.Guids.dll
+C:\Projects\CMS24\Programmering\DataTypes.Guids\bin\Debug\net8.0\DataTypes.Guids.pdb
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\DataTypes.Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\DataTypes.Guids.AssemblyInfoInputs.cache
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\DataTypes.Guids.AssemblyInfo.cs
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\DataTypes.Guids.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\DataTypes.Guids.dll
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\refint\DataTypes.Guids.dll
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\DataTypes.Guids.pdb
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\DataTypes.Guids.genruntimeconfig.cache
+C:\Projects\CMS24\Programmering\DataTypes.Guids\obj\Debug\net8.0\ref\DataTypes.Guids.dll

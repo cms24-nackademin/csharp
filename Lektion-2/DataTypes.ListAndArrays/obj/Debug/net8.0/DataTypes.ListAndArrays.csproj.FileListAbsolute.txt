@@ -1,0 +1,14 @@
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\bin\Debug\net8.0\DataTypes.ListAndArrays.exe
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\bin\Debug\net8.0\DataTypes.ListAndArrays.deps.json
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\bin\Debug\net8.0\DataTypes.ListAndArrays.runtimeconfig.json
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\bin\Debug\net8.0\DataTypes.ListAndArrays.dll
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\bin\Debug\net8.0\DataTypes.ListAndArrays.pdb
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\DataTypes.ListAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\DataTypes.ListAndArrays.AssemblyInfoInputs.cache
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\DataTypes.ListAndArrays.AssemblyInfo.cs
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\DataTypes.ListAndArrays.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\DataTypes.ListAndArrays.dll
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\refint\DataTypes.ListAndArrays.dll
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\DataTypes.ListAndArrays.pdb
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\DataTypes.ListAndArrays.genruntimeconfig.cache
+C:\Projects\CMS24\Programmering\DataTypes.ListAndArrays\obj\Debug\net8.0\ref\DataTypes.ListAndArrays.dll

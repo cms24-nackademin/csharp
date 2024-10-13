@@ -1,0 +1,12 @@
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\bin\Debug\net8.0\TodoApp_Advanced.Shared.deps.json
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\bin\Debug\net8.0\TodoApp_Advanced.Shared.dll
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\bin\Debug\net8.0\TodoApp_Advanced.Shared.pdb
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\TodoApp_Advanced.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\TodoApp_Advanced.Shared.AssemblyInfoInputs.cache
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\TodoApp_Advanced.Shared.AssemblyInfo.cs
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\TodoApp_Advanced.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\TodoApp_Advanced.Shared.sourcelink.json
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\TodoApp_Advanced.Shared.dll
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\refint\TodoApp_Advanced.Shared.dll
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\TodoApp_Advanced.Shared.pdb
+C:\Projects\CMS24\csharp\Lektion-11\WPF\TodoApp_Advanced.Shared\obj\Debug\net8.0\ref\TodoApp_Advanced.Shared.dll

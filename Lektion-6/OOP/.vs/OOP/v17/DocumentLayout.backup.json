@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CMS24\\csharp\\Lektion-6\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3A5687-7D11-4A23-8DFC-F36415A4BA4C}|ConsoleApp\\ConsoleApp.csproj|c:\\projects\\cms24\\csharp\\lektion-6\\oop\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3A5687-7D11-4A23-8DFC-F36415A4BA4C}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3A5687-7D11-4A23-8DFC-F36415A4BA4C}|ConsoleApp\\ConsoleApp.csproj|c:\\projects\\cms24\\csharp\\lektion-6\\oop\\consoleapp\\menus\\contactmenuinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3A5687-7D11-4A23-8DFC-F36415A4BA4C}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\menus\\contactmenuinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF3A5687-7D11-4A23-8DFC-F36415A4BA4C}|ConsoleApp\\ConsoleApp.csproj|c:\\projects\\cms24\\csharp\\lektion-6\\oop\\consoleapp\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF3A5687-7D11-4A23-8DFC-F36415A4BA4C}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\services\\contactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactService.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-6\\OOP\\ConsoleApp\\Services\\ContactService.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Services\\ContactService.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-6\\OOP\\ConsoleApp\\Services\\ContactService.cs",
+              "RelativeToolTip": "ConsoleApp\\Services\\ContactService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAmwCcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:50:19.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactMenuInteraction.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-6\\OOP\\ConsoleApp\\Menus\\ContactMenuInteraction.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Menus\\ContactMenuInteraction.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-6\\OOP\\ConsoleApp\\Menus\\ContactMenuInteraction.cs",
+              "RelativeToolTip": "ConsoleApp\\Menus\\ContactMenuInteraction.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:17:49.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-6\\OOP\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-6\\OOP\\ConsoleApp\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T09:17:45.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

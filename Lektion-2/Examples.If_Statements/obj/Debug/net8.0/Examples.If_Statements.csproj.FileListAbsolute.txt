@@ -1,0 +1,14 @@
+C:\Projects\CMS24\Programmering\Examples.If_Statements\bin\Debug\net8.0\Examples.If_Statements.exe
+C:\Projects\CMS24\Programmering\Examples.If_Statements\bin\Debug\net8.0\Examples.If_Statements.deps.json
+C:\Projects\CMS24\Programmering\Examples.If_Statements\bin\Debug\net8.0\Examples.If_Statements.runtimeconfig.json
+C:\Projects\CMS24\Programmering\Examples.If_Statements\bin\Debug\net8.0\Examples.If_Statements.dll
+C:\Projects\CMS24\Programmering\Examples.If_Statements\bin\Debug\net8.0\Examples.If_Statements.pdb
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\Examples.If_Statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\Examples.If_Statements.AssemblyInfoInputs.cache
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\Examples.If_Statements.AssemblyInfo.cs
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\Examples.If_Statements.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\Examples.If_Statements.dll
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\refint\Examples.If_Statements.dll
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\Examples.If_Statements.pdb
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\Examples.If_Statements.genruntimeconfig.cache
+C:\Projects\CMS24\Programmering\Examples.If_Statements\obj\Debug\net8.0\ref\Examples.If_Statements.dll

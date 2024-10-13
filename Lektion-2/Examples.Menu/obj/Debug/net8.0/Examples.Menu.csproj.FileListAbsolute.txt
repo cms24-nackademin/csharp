@@ -1,0 +1,14 @@
+C:\Projects\CMS24\Programmering\Examples.Menu\bin\Debug\net8.0\Examples.Menu.exe
+C:\Projects\CMS24\Programmering\Examples.Menu\bin\Debug\net8.0\Examples.Menu.deps.json
+C:\Projects\CMS24\Programmering\Examples.Menu\bin\Debug\net8.0\Examples.Menu.runtimeconfig.json
+C:\Projects\CMS24\Programmering\Examples.Menu\bin\Debug\net8.0\Examples.Menu.dll
+C:\Projects\CMS24\Programmering\Examples.Menu\bin\Debug\net8.0\Examples.Menu.pdb
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\Examples.Menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\Examples.Menu.AssemblyInfoInputs.cache
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\Examples.Menu.AssemblyInfo.cs
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\Examples.Menu.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\Examples.Menu.dll
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\refint\Examples.Menu.dll
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\Examples.Menu.pdb
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\Examples.Menu.genruntimeconfig.cache
+C:\Projects\CMS24\Programmering\Examples.Menu\obj\Debug\net8.0\ref\Examples.Menu.dll

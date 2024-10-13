@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1zn4IGgvEA=",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\CMS24\\csharp\\Lektion-13\\MAUI_MVVM\\Shared\\Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HansMattin-Lassei\\.nuget\\packages\\communitytoolkit.mvvm\\8.3.2\\communitytoolkit.mvvm.8.3.2.nupkg.sha512"
+  ],
+  "logs": []
+}

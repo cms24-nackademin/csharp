@@ -1,0 +1,1 @@
+C:\Projects\CMS24\csharp\Lektion-13\MAUI_MVVM\MainApp\MainApp.csproj;x64

@@ -1,0 +1,14 @@
+C:\Projects\CMS24\Programmering\DataTypes.Strings\bin\Debug\net8.0\DataTypes.Strings.exe
+C:\Projects\CMS24\Programmering\DataTypes.Strings\bin\Debug\net8.0\DataTypes.Strings.deps.json
+C:\Projects\CMS24\Programmering\DataTypes.Strings\bin\Debug\net8.0\DataTypes.Strings.runtimeconfig.json
+C:\Projects\CMS24\Programmering\DataTypes.Strings\bin\Debug\net8.0\DataTypes.Strings.dll
+C:\Projects\CMS24\Programmering\DataTypes.Strings\bin\Debug\net8.0\DataTypes.Strings.pdb
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\DataTypes.Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\DataTypes.Strings.AssemblyInfoInputs.cache
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\DataTypes.Strings.AssemblyInfo.cs
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\DataTypes.Strings.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\DataTypes.Strings.dll
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\refint\DataTypes.Strings.dll
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\DataTypes.Strings.pdb
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\DataTypes.Strings.genruntimeconfig.cache
+C:\Projects\CMS24\Programmering\DataTypes.Strings\obj\Debug\net8.0\ref\DataTypes.Strings.dll

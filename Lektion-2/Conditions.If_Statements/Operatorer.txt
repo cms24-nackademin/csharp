@@ -1,0 +1,44 @@
+Operatorer i C#
+----------------------------------------------------------
+
+Relationsoperatorer - används för att jämföra två värden
+---------------------------------------------------------
+==		lika med
+!=		inte lika med
+<		mindre än
+>		större än
+<=		mindre eller lika med
+>=		större eller lika med
+
+Logiska operatorer - används för att kombinera uttryck
+---------------------------------------------------------
+&&		och
+||		eller
+!		inte
+
+Tilldelningsoperatorer - används för att tilldela värden
+---------------------------------------------------------
+=		tilldelning
++=		addera och tilldela
+-=		subtrahera och tilldela
+*=		multiplicera och tilldela
+/=		dividera och tilldela
+
+++		öka med 1
+--		minska med 1
+
+
+Övrigt
+--------------------------------------------------------
+??			null coalescing			(annars)
+new			skapar en instans av ett objekt
+typeof		kolla om det är av en viss datatyp
+sizeof		kollar storleken i byte för ett objekt
+is			datatypskontroll
+
+
+
+
+Ternary Operator ?:
+------------------------------------------------
+(villkor) ? true : false;

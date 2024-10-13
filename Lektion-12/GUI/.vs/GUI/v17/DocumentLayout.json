@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CMS24\\csharp\\Lektion-12\\GUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9296E93-6F24-4EE4-B889-2A7E0545BBA8}|MainApp_Advanced\\MainApp_Advanced.csproj|c:\\projects\\cms24\\csharp\\lektion-12\\gui\\mainapp_advanced\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C9296E93-6F24-4EE4-B889-2A7E0545BBA8}|MainApp_Advanced\\MainApp_Advanced.csproj|solutionrelative:mainapp_advanced\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9296E93-6F24-4EE4-B889-2A7E0545BBA8}|MainApp_Advanced\\MainApp_Advanced.csproj|c:\\projects\\cms24\\csharp\\lektion-12\\gui\\mainapp_advanced\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9296E93-6F24-4EE4-B889-2A7E0545BBA8}|MainApp_Advanced\\MainApp_Advanced.csproj|solutionrelative:mainapp_advanced\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9296E93-6F24-4EE4-B889-2A7E0545BBA8}|MainApp_Advanced\\MainApp_Advanced.csproj|c:\\projects\\cms24\\csharp\\lektion-12\\gui\\mainapp_advanced\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9296E93-6F24-4EE4-B889-2A7E0545BBA8}|MainApp_Advanced\\MainApp_Advanced.csproj|solutionrelative:mainapp_advanced\\viewmodels\\settingsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-12\\GUI\\MainApp_Advanced\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "MainApp_Advanced\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-12\\GUI\\MainApp_Advanced\\Views\\HomeView.xaml",
+              "RelativeToolTip": "MainApp_Advanced\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-03T13:18:06.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-12\\GUI\\MainApp_Advanced\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "MainApp_Advanced\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-12\\GUI\\MainApp_Advanced\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "MainApp_Advanced\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:16:34.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsViewModel.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-12\\GUI\\MainApp_Advanced\\ViewModels\\SettingsViewModel.cs",
+              "RelativeDocumentMoniker": "MainApp_Advanced\\ViewModels\\SettingsViewModel.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-12\\GUI\\MainApp_Advanced\\ViewModels\\SettingsViewModel.cs",
+              "RelativeToolTip": "MainApp_Advanced\\ViewModels\\SettingsViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T13:14:16.187Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
