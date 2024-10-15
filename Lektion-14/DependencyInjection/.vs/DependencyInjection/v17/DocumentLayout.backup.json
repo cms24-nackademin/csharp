@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEF0A3-A247-4CA2-A9E6-BA10BBCE7E37}|Shared\\Shared.csproj|c:\\projects\\cms24\\csharp\\lektion-14\\dependencyinjection\\shared\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEF0A3-A247-4CA2-A9E6-BA10BBCE7E37}|Shared\\Shared.csproj|solutionrelative:shared\\services\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB36A639-D0D1-4C8E-9F6B-23524726D547}|MainMauiApp\\MainMauiApp.csproj|c:\\projects\\cms24\\csharp\\lektion-14\\dependencyinjection\\mainmauiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB36A639-D0D1-4C8E-9F6B-23524726D547}|MainMauiApp\\MainMauiApp.csproj|solutionrelative:mainmauiapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAA9373-E262-42C1-821E-4C51137082A3}|ConsoleApp\\ConsoleApp.csproj|c:\\projects\\cms24\\csharp\\lektion-14\\dependencyinjection\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAA9373-E262-42C1-821E-4C51137082A3}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9708E2-5F25-48A6-9CBF-87F55E60EF48}|WpfApp\\WpfApp.csproj|c:\\projects\\cms24\\csharp\\lektion-14\\dependencyinjection\\wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9708E2-5F25-48A6-9CBF-87F55E60EF48}|WpfApp\\WpfApp.csproj|solutionrelative:wpfapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFEF0A3-A247-4CA2-A9E6-BA10BBCE7E37}|Shared\\Shared.csproj|c:\\projects\\cms24\\csharp\\lektion-14\\dependencyinjection\\shared\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFEF0A3-A247-4CA2-A9E6-BA10BBCE7E37}|Shared\\Shared.csproj|solutionrelative:shared\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\Shared\\Services\\DataService.cs",
+              "RelativeDocumentMoniker": "Shared\\Services\\DataService.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\Shared\\Services\\DataService.cs",
+              "RelativeToolTip": "Shared\\Services\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:28:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\ConsoleApp\\Program.cs",
+              "RelativeToolTip": "ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:27:35.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\WpfApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp\\App.xaml.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\WpfApp\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp\\App.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:25:29.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\Shared\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "Shared\\Services\\FileService.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\Shared\\Services\\FileService.cs",
+              "RelativeToolTip": "Shared\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:22:05.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\MainMauiApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MainMauiApp\\MauiProgram.cs",
+              "ToolTip": "C:\\Projects\\CMS24\\csharp\\Lektion-14\\DependencyInjection\\MainMauiApp\\MauiProgram.cs",
+              "RelativeToolTip": "MainMauiApp\\MauiProgram.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T09:21:04.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1473,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+C:\Projects\CMS24\csharp\Lektion-14\DependencyInjection\MainMauiApp\MainMauiApp.csproj;x64
