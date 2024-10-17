@@ -1,0 +1,12 @@
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\bin\Debug\net8.0\Shared.deps.json
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\bin\Debug\net8.0\Shared.dll
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\bin\Debug\net8.0\Shared.pdb
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\Shared.dll
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\refint\Shared.dll
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\Shared.pdb
+C:\Projects\CMS24\csharp\Lektion-14\Bindings\Shared\obj\Debug\net8.0\ref\Shared.dll
